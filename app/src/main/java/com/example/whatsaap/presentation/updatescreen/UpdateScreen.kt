@@ -38,6 +38,10 @@ fun UpdateScreen() {
         },
         bottomBar = {
             bottomNavigation()
+        },
+
+        topBar = {
+            TopBar()
         }
 
     ) {
